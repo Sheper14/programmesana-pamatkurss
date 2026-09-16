@@ -1,0 +1,3 @@
+# python uzdevumi/diena1.py strādā
+
+# Nesaprotu kāpēc ceļš mēdz strādāt un mēdz nestrādāt, iespējams, ja definē folderi termināli, tad tam ir grūtības to atrast.
