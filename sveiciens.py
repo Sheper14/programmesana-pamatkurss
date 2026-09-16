@@ -1,1 +1,1 @@
-print("Šis nav mans pirmais commit!")
+print("Šis nav mans pirmais commit, taču mācos!")
