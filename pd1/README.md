@@ -3,6 +3,6 @@
 ## Palaišana
 - Atverot kodu iekš VS Studio, palaid to izmantojot "run" pogu, un apskati atbildi konsolē
 ## Ergonomika
-- Ik pēc 20 minūtem veikt īsu atpūtu acīm
-- Vismaz 20 sekundes atpūtināt
--  20 "pēdu" jeb 6 metru attālumā
+- Sēdi taisni, tiek atbalstīta mugura, pēdas uz grīdas, elkoņi ap 90 grādu leņķi.
+- Monitors acu līmenī, 50-70cm attālumā
+-  Regulāri pātrtaukumi acīm, ik pēc 20 min, vismaz 20 sekundes jāatpūtina.
