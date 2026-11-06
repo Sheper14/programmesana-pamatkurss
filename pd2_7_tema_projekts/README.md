@@ -4,11 +4,7 @@ Vienkārša Python spēle, kurā dators mēģina uzminēt iedomātu skaitli no 1
 
 ## Kā palaist
 
-Nepieciešams Python 3. Terminālī ievadi:
-
-```bash
-python main.py
-```
+Atvērt VS Studio, un uzspiest RUN pogu.
 
 ## Kā spēlēt
 
